@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "Java, ExtJS",
     description:
       "Visualisation of mineral resource data in Australia",
-    image: "https://www.cmca.uwa.edu.au/__data/assets/image/0018/1214226/Auscope_logo_b.jpg",
+    image: "https://images.squarespace-cdn.com/content/v1/5b440dc18ab722131f76b631/1663204147064-EBR02MKB1VK9HN2YEBT9/AuScope+Logo+Blue.png",
     link: "http://portal.auscope.org",
   },
   {
