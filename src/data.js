@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "C++",
     description:
       "Video distribution software for operating rooms",
-    image: "https://www.brainlab.com/wp-content/uploads/2014/03/Brainlab_Gallery_BrainlabLogo.jpg",
+    image: "https://press.brainlab.com/cache-buster-6/Images/6245/image-thumb__6245__portal-engine_element-detail/Brainlab_Logo_PINK__Digital.06b3c57f.jpg",
     link: "https://www.brainlab.com/",
   },
   {
